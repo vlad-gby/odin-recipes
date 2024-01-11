@@ -1,0 +1,54 @@
+body{
+  background-color: rgb(255, 238, 181);
+  padding: 24px;
+}
+
+h1{
+  font-size: 48px;
+  margin: 32px 0;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+
+.back{
+  color:green;
+  font-size: 24px;
+}
+
+.back img{
+  width: 32px;
+  height: auto;
+}
+
+img, h1, h2, h3, h4, h5,h6 {
+  text-align: center;
+  margin: 0 auto;
+  color:rgb(108, 87, 23);
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 24px;
+}
+
+ul li{
+  color:rgb(95, 75, 13);
+  font-size: 20px;
+}
+
+b{
+  color:rgb(108, 87, 23);
+  font-size: 24px;
+}
+
+p {
+  width: 700px;
+  color:rgb(95, 75, 13);
+  font-size: 20px;
+}

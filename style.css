@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(255, 238, 181);
+  margin: 0;
+  padding: 24px;
+}
+
+h1{
+  color:rgb(108, 87, 23);
+  font-size: 48px;
+  margin: 32px 0;
+  text-align: center;
+}
+
+a{
+  color:rgb(108, 87, 23);
+  font-size: 24px;
+}
+
+p{
+  padding: 0;
+  width: 360px;
+  text-align: center;
+}
+
+img{
+  width: 360px;
+  height: auto;
+}
+
+p img{
+  width:32px;
+  height: auto;
+}
+
+
