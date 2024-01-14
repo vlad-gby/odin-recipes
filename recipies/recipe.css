@@ -9,18 +9,33 @@ h1{
   text-align: center;
 }
 
+
 a{
   text-decoration: none;
 }
 
 .back{
+  display: block;
+  width:fit-content;
   color:green;
   font-size: 24px;
 }
 
+.center{
+  margin: 0 auto;
+}
+
 .back img{
+  margin: 0;
   width: 32px;
   height: auto;
+}
+
+.ingredients{
+  background-color: rgb(245, 220, 144);
+  box-sizing: border-box;
+  padding: 12px;
+  margin: 12px 0;
 }
 
 img, h1, h2, h3, h4, h5,h6 {
@@ -29,17 +44,29 @@ img, h1, h2, h3, h4, h5,h6 {
   color:rgb(108, 87, 23);
 }
 
+img{
+  margin: 12px;
+}
+
 h2{
   font-size: 32px;
+  margin:24px;
 }
 
 h3{
+  margin: 24px;
   font-size: 24px;
+}
+
+li{
+  padding: 12px;
+
 }
 
 ul li{
   color:rgb(95, 75, 13);
   font-size: 20px;
+  padding: 4px;
 }
 
 b{
@@ -48,6 +75,7 @@ b{
 }
 
 p {
+  margin: 12px 0;
   width: 700px;
   color:rgb(95, 75, 13);
   font-size: 20px;
